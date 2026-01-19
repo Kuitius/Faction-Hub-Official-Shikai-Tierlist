@@ -35,11 +35,13 @@ body {
   margin: 5px;
   cursor: grab;
   border-radius: 8px;
-  transition: transform 0.1s;
+  border: 2px solid transparent; 
+  transition: transform 0.1s, border 0.2s; 
 }
 
 .icon:hover {
   transform: scale(1.08);
+  border: 2px solid #00ff00; 
 }
 
 #infoPanel {
