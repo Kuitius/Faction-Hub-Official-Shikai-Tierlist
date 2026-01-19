@@ -59,7 +59,7 @@
     "id": 9,
     "name": "Nozarashi",
     "info": "Noah is buns.",
-    "img": "icons/bg",
+    "img": "icons/noza.png",
     "tier": "D"
   },
   {
@@ -101,7 +101,7 @@
     "id": 15,
     "name": "Minazuki",
     "info": "Noah is buns.",
-    "img": "icons/Wb",
+    "img": "icons/mina.png",
     "tier": "C"
   },
   {
