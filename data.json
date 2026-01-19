@@ -45,7 +45,7 @@
     "id": 7,
     "name": "Senbonzakura",
     "info": "Noah is buns.",
-    "img": "icons/Wb",
+    "img": "icons/senbon.png",
     "tier": "A"
    },
    {
@@ -73,7 +73,7 @@
     "id": 11,
     "name": "Ryujin Jakka",
     "info": "Noah is buns.",
-    "img": "icons/Wb",
+    "img": "icons/ryujin.png",
     "tier": "A"
   },
   {
