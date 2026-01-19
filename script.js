@@ -16,6 +16,8 @@ function render() {
     img.src = item.img;
     img.className = "icon";
     img.onclick = () => showInfo(item);
+    img.title = item.name;
+
 
     document
       .querySelector(`.tier[data-tier="${item.tier}"] .tier-row`)
