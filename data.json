@@ -12,5 +12,110 @@
     "info": "The best mode.",
     "img": "icons/sode.png",
     "tier": "B"
+  },
+  {
+    "id": 3,
+    "name": "Sakanade",
+    "info": "Noah is buns.",
+    "img": "icons/b ",
+    "tier": "C"
+  },
+  {
+    "id": 4,
+    "name": "Shinso",
+    "info": "Noah is buns.",
+    "img": "icons/bg",
+    "tier": "A"
+  },
+  {
+    "id": 5,
+    "name": "Katen Kyokotsu",
+    "info": "Noah is buns.",
+    "img": "icons/bg",
+    "tier": "D"
+  },
+  {
+    "id": 6,
+    "name": "Benihime",
+    "info": "Noah is buns.",
+    "img": "icons/b",
+    "tier": "S"
+  },
+  {
+    "id": 7,
+    "name": "Senbonzakura",
+    "info": "Noah is buns.",
+    "img": "icons/Wb",
+    "tier": "A"
+   },
+  {
+    "id": 8,
+    "name": "Tenken",
+    "info": "Noah is buns.",
+    "img": "icons/bg",
+    "tier": "S"
+  },
+  {
+    "id": 9,
+    "name": "Nozarashi",
+    "info": "Noah is buns.",
+    "img": "icons/bg",
+    "tier": "D"
+  },
+  {
+    "id": 10,
+    "name": "Ichimonji",
+    "info": "Noah is buns.",
+    "img": "icons/b",
+    "tier": "S"
+  },
+  {
+    "id": 11,
+    "name": "Ryujin Jakka",
+    "info": "Noah is buns.",
+    "img": "icons/Wb",
+    "tier": "A"
+  },
+  {
+    "id": 12,
+    "name": "Hyorinmaru",
+    "info": "Noah is buns.",
+    "img": "icons/Wb",
+    "tier": "D"
+  },
+   {
+    "id": 13,
+    "name": "Kyoka Suigetsu",
+    "info": "Noah is buns.",
+    "img": "icons/Wb",
+    "tier": "S"
+  },
+   {
+    "id": 14,
+    "name": "Zangetsu",
+    "info": "Noah is buns.",
+    "img": "icons/Wb",
+    "tier": "S"
+  },
+   {
+    "id": 15,
+    "name": "Minazuki",
+    "info": "Noah is buns.",
+    "img": "icons/Wb",
+    "tier": "C"
+  },
+    {
+    "id": 16,
+    "name": "True Zangetsu",
+    "info": "Noah is buns.",
+    "img": "icons/Wb",
+    "tier": "D"
+  },
+    {
+    "id": 17,
+    "name": "Shinken Hakkyoken",
+    "info": "Noah is buns.",
+    "img": "icons/Wb",
+    "tier": "S"
   }
 ]
