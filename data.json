@@ -1,9 +1,16 @@
 [
   {
     "id": 1,
-    "name": "Example Item",
-    "info": "This is an example item. Replace this with your own ranked thing.",
+    "name": "Kyoka",
+    "info": "This is an example item.",
     "img": "icons/example.png",
     "tier": "S"
+  },
+  {
+    "id": 2,
+    "name": "Minazuki",
+    "info": "The classic plumber hero.",
+    "img": "icons/mario.png",
+    "tier": "A"
   }
 ]
