@@ -1,37 +1,67 @@
 let allLists = {};
-let currentMode = localStorage.getItem("tierMode") || "casual";
+let currentMode = null;
+
+const startScreen = document.getElementById("startScreen");
+const mainScreen = document.getElementById("mainScreen");
+const backBtn = document.getElementById("backBtn");
+const modeLabel = document.getElementById("modeLabel");
 
 fetch("data.json")
   .then(r => r.json())
   .then(data => {
     allLists = data;
-    setupModeButtons();
-    setMode(currentMode);
+
+   
+    const saved = localStorage.getItem("tierMode");
+    if (saved && allLists[saved]) {
+      setMode(saved);
+    } else {
+      showStart();
+    }
+
+    setupButtons();
   });
 
-function setupModeButtons() {
+function setupButtons() {
   document.querySelectorAll(".mode-btn").forEach(btn => {
     btn.addEventListener("click", () => {
       setMode(btn.dataset.mode);
     });
   });
+
+  backBtn.addEventListener("click", () => {
+    showStart();
+  });
+}
+
+function showStart() {
+  currentMode = null;
+  startScreen.classList.remove("hidden");
+  mainScreen.classList.add("hidden");
+  document.getElementById("infoPanel").classList.add("hidden");
 }
 
 function setMode(mode) {
+  if (!allLists[mode]) return;
+
   currentMode = mode;
   localStorage.setItem("tierMode", mode);
 
-  document.querySelectorAll(".mode-btn").forEach(btn => {
-    btn.classList.toggle("active", btn.dataset.mode === mode);
-  });
+  modeLabel.textContent = mode === "casual"
+    ? "Viewing: Casual"
+    : "Viewing: Competitive";
+
+  startScreen.classList.add("hidden");
+  mainScreen.classList.remove("hidden");
 
   render();
 }
 
 function render() {
   const items = allLists[currentMode] || [];
-  const tierRows = document.querySelectorAll(".tier-row");
-  tierRows.forEach(row => (row.innerHTML = ""));
+
+
+  document.querySelectorAll(".tier-row").forEach(row => row.innerHTML = "");
 
   items.forEach(item => {
     const wrapper = document.createElement("div");
