@@ -12,16 +12,24 @@ function render() {
   tierRows.forEach(row => row.innerHTML = "");
 
   items.forEach(item => {
-    const img = document.createElement("img");
-    img.src = item.img;
-    img.className = "icon";
-    img.onclick = () => showInfo(item);
-    img.title = item.name;
+    const wrapper = document.createElement("div");
+wrapper.className = "icon-wrapper";
 
+const img = document.createElement("img");
+img.src = item.img;
+img.className = "icon";
+img.onclick = () => showInfo(item);
 
-    document
-      .querySelector(`.tier[data-tier="${item.tier}"] .tier-row`)
-      .appendChild(img);
+const label = document.createElement("div");
+label.className = "icon-label";
+label.textContent = item.name;
+
+wrapper.appendChild(img);
+wrapper.appendChild(label);
+
+document
+  .querySelector(`.tier[data-tier="${item.tier}"] .tier-row`)
+  .appendChild(wrapper);
   });
 }
 
