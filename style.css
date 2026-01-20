@@ -18,8 +18,10 @@ body {
 }
 
 .tier h2 {
-  margin-bottom: 8px;
+  text-align: left;    
+  margin-left: 10px;    
 }
+
 
 .tier-row {
   display: flex;
