@@ -35,8 +35,8 @@ body {
   margin: 5px;
   cursor: grab;
   border-radius: 8px;
-  border: 2px solid transparent; 
-  transition: transform 0.1s, border 0.2s; 
+  border: 2px solid transparent;
+  transition: transform 0.1s, border 0.2s;
 }
 
 .icon:hover {
@@ -61,7 +61,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 80px;
+  width: 110px;
+  flex: 0 0 auto;
 }
 
 .icon-label {
