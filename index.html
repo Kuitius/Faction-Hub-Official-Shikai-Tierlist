@@ -14,8 +14,8 @@
   <div class="start-card">
     <h2>What type of player are you?</h2>
     <div class="start-buttons">
-      <button class="mode-btn" data-mode="casual">Casual</button>
-      <button class="mode-btn" data-mode="competitive">Competitive</button>
+      <button class="mode-btn" onclick="chooseMode('casual')">Casual</button>
+      <button class="mode-btn" onclick="chooseMode('competitive')">Competitive</button>
     </div>
   </div>
 </div>
@@ -23,7 +23,7 @@
 
 <div id="mainScreen" class="hidden">
   <div class="top-bar">
-    <button id="backBtn">← Change mode</button>
+    <button id="backBtn" onclick="goBackToModeSelect()">← Change mode</button>
     <div id="modeLabel"></div>
   </div>
 
