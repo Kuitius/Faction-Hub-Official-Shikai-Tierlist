@@ -108,14 +108,14 @@
     "id": 16,
     "name": "True Zangetsu",
     "info": "Noah is buns.",
-    "img": "icons/Wb",
+    "img": "icons/tz.png",
     "tier": "D"
   },
   {
     "id": 17,
     "name": "Shinken Hakkyoken",
     "info": "Noah is buns.",
-    "img": "icons/Wb",
+    "img": "icons/shinken.png",
     "tier": "S"
   }
 ]
