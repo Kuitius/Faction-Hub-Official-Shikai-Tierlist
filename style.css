@@ -160,7 +160,7 @@ h1 {
   border-color: #00ff00;
 }
 
-.hidden { display: none; }
+.hidden { display: none !important; }
 
 
 .top-bar {
