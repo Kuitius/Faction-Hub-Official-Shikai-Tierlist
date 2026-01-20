@@ -52,7 +52,7 @@
     "id": 8,
     "name": "Tenken",
     "info": "Noah is buns.",
-    "img": "icons/bg",
+    "img": "icons/tenken.png",
     "tier": "S"
   },
   {
@@ -87,7 +87,7 @@
     "id": 13,
     "name": "Kyoka Suigetsu",
     "info": "Noah is buns.",
-    "img": "icons/Wb",
+    "img": "icons/kyoka.png",
     "tier": "S"
   },
   {
