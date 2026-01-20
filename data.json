@@ -29,7 +29,7 @@
   },
   {
     "id": 5,
-    "name": "Katen Kyokotsu",
+    "name": "Katen Kyokotsu", 
     "info": "Noah is buns.",
     "img": "icons/katen.png",
     "tier": "D"
@@ -59,7 +59,7 @@
     "id": 9,
     "name": "Nozarashi",
     "info": "Noah is buns.",
-    "img": "icons/noza.png",
+    "img": "icons/nozar.png",
     "tier": "D"
   },
   {
