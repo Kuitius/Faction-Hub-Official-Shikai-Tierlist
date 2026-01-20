@@ -9,35 +9,49 @@
 
 <h1>FH Soul Society Mode Tierlist</h1>
 
-<div id="modeBar">
-  <button class="mode-btn" data-mode="casual">Casual Player</button>
-  <button class="mode-btn" data-mode="competitive">Competitive Player</button>
+
+<div id="startScreen">
+  <div class="start-card">
+    <h2>What type of player are you?</h2>
+    <div class="start-buttons">
+      <button class="mode-btn" data-mode="casual">Casual</button>
+      <button class="mode-btn" data-mode="competitive">Competitive</button>
+    </div>
+  </div>
 </div>
 
-<div id="tierlist">
-  <div class="tier" data-tier="S">
-    <h2>S Tier (Broken/Busted):</h2>
-    <div class="tier-row"></div>
+
+<div id="mainScreen" class="hidden">
+  <div class="top-bar">
+    <button id="backBtn">← Change mode</button>
+    <div id="modeLabel"></div>
   </div>
 
-  <div class="tier" data-tier="A">
-    <h2>A Tier (All-around good):</h2>
-    <div class="tier-row"></div>
-  </div>
+  <div id="tierlist">
+    <div class="tier" data-tier="S">
+      <h2>S Tier (Broken/Busted):</h2>
+      <div class="tier-row"></div>
+    </div>
 
-  <div class="tier" data-tier="B">
-    <h2>B Tier (Alright):</h2>
-    <div class="tier-row"></div>
-  </div>
+    <div class="tier" data-tier="A">
+      <h2>A Tier (All-around good):</h2>
+      <div class="tier-row"></div>
+    </div>
 
-  <div class="tier" data-tier="C">
-    <h2>C Tier (Bad but still usable):</h2>
-    <div class="tier-row"></div>
-  </div>
+    <div class="tier" data-tier="B">
+      <h2>B Tier (Alright):</h2>
+      <div class="tier-row"></div>
+    </div>
 
-  <div class="tier" data-tier="D">
-    <h2>D Tier (Nobody should use this):</h2>
-    <div class="tier-row"></div>
+    <div class="tier" data-tier="C">
+      <h2>C Tier (Bad but still usable):</h2>
+      <div class="tier-row"></div>
+    </div>
+
+    <div class="tier" data-tier="D">
+      <h2>D Tier (Nobody should use this):</h2>
+      <div class="tier-row"></div>
+    </div>
   </div>
 </div>
 
