@@ -118,3 +118,75 @@ h1 {
 .mode-btn.active {
   border-color: #FFD700;
 }
+
+#startScreen {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  background: rgba(0,0,0,0.75);
+  z-index: 2000;
+}
+
+.start-card {
+  background: #161616;
+  border: 2px solid #2a2a2a;
+  border-radius: 16px;
+  padding: 20px 22px;
+  width: min(420px, 90vw);
+  text-align: center;
+}
+
+.start-card h2 {
+  margin: 0 0 14px 0;
+}
+
+.start-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+.mode-btn {
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 2px solid #333;
+  background: #111;
+  color: white;
+  cursor: pointer;
+}
+
+.mode-btn:hover {
+  border-color: #00ff00;
+}
+
+.hidden { display: none; }
+
+
+.top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 900px;
+  margin: 0 auto 14px auto;
+  gap: 12px;
+}
+
+#backBtn {
+  padding: 8px 10px;
+  border-radius: 10px;
+  border: 2px solid #333;
+  background: #111;
+  color: white;
+  cursor: pointer;
+}
+
+#backBtn:hover {
+  border-color: #00ff00;
+}
+
+#modeLabel {
+  color: #bbb;
+  font-size: 14px;
+}
+
