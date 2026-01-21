@@ -1,0 +1,244 @@
+{
+  "casual": [
+    {
+      "id": 1,
+      "name": "Wabisuke",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/Wabi.png",
+      "tier": "A"
+    },
+    {
+      "id": 2,
+      "name": "Sode No Shirayuki",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/sod.png",
+      "tier": "B"
+    },
+    {
+      "id": 3,
+      "name": "Sakanade",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/sakande.png",
+      "tier": "C"
+    },
+    {
+      "id": 4,
+      "name": "Shinso",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/shinso.png",
+      "tier": "A"
+    },
+    {
+      "id": 5,
+      "name": "Katen Kyokotsu",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/katen.png",
+      "tier": "D"
+    },
+    {
+      "id": 6,
+      "name": "Benihime",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/Benihime.png",
+      "tier": "S"
+    },
+    {
+      "id": 7,
+      "name": "Senbonzakura",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/senny.png",
+      "tier": "A"
+    },
+    {
+      "id": 8,
+      "name": "Tenken",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/tenken.png",
+      "tier": "S"
+    },
+    {
+      "id": 9,
+      "name": "Nozarashi",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/nozar.png",
+      "tier": "D"
+    },
+    {
+      "id": 10,
+      "name": "Ichimonji",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/icho.png",
+      "tier": "S"
+    },
+    {
+      "id": 11,
+      "name": "Ryujin Jakka",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/ryu.png",
+      "tier": "A"
+    },
+    {
+      "id": 12,
+      "name": "Hyorinmaru",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/hyorin.png",
+      "tier": "D"
+    },
+    {
+      "id": 13,
+      "name": "Kyoka Suigetsu",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/kyoka.png",
+      "tier": "S"
+    },
+    {
+      "id": 14,
+      "name": "Zangetsu",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/zangetsu.png",
+      "tier": "S"
+    },
+    {
+      "id": 15,
+      "name": "Minazuki",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/minazuki.png",
+      "tier": "C"
+    },
+    {
+      "id": 16,
+      "name": "True Zangetsu",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/tz.png",
+      "tier": "D"
+    },
+    {
+      "id": 17,
+      "name": "Shinken Hakkyoken",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/shinken.png",
+      "tier": "S"
+    }
+  ],
+  "competitive": [
+    {
+      "id": 1,
+      "name": "Wabisuke",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/Wabi.png",
+      "tier": "A"
+    },
+    {
+      "id": 2,
+      "name": "Sode No Shirayuki",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/sod.png",
+      "tier": "B"
+    },
+    {
+      "id": 3,
+      "name": "Sakanade",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/sakande.png",
+      "tier": "C"
+    },
+    {
+      "id": 4,
+      "name": "Shinso",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/shinso.png",
+      "tier": "A"
+    },
+    {
+      "id": 5,
+      "name": "Katen Kyokotsu",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/katen.png",
+      "tier": "D"
+    },
+    {
+      "id": 6,
+      "name": "Benihime",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/Benihime.png",
+      "tier": "S"
+    },
+    {
+      "id": 7,
+      "name": "Senbonzakura",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/senny.png",
+      "tier": "A"
+    },
+    {
+      "id": 8,
+      "name": "Tenken",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/tenken.png",
+      "tier": "S"
+    },
+    {
+      "id": 9,
+      "name": "Nozarashi",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/nozar.png",
+      "tier": "D"
+    },
+    {
+      "id": 10,
+      "name": "Ichimonji",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/icho.png",
+      "tier": "S"
+    },
+    {
+      "id": 11,
+      "name": "Ryujin Jakka",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/ryu.png",
+      "tier": "A"
+    },
+    {
+      "id": 12,
+      "name": "Hyorinmaru",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/hyorin.png",
+      "tier": "D"
+    },
+    {
+      "id": 13,
+      "name": "Kyoka Suigetsu",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/kyoka.png",
+      "tier": "S"
+    },
+    {
+      "id": 14,
+      "name": "Zangetsu",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/zangetsu.png",
+      "tier": "S"
+    },
+    {
+      "id": 15,
+      "name": "Minazuki",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/minazuki.png",
+      "tier": "C"
+    },
+    {
+      "id": 16,
+      "name": "True Zangetsu",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/tz.png",
+      "tier": "D"
+    },
+    {
+      "id": 17,
+      "name": "Shinken Hakkyoken",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "img": "icons/shinken.png",
+      "tier": "A"
+    }
+  ]
+}
