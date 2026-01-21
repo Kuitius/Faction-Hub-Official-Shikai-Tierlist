@@ -47,7 +47,7 @@
       "name": "Senbonzakura",
       "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
       "img": "icons/senny.png",
-      "tier": "C"
+      "tier": "D"
     },
     {
       "id": 8,
@@ -68,7 +68,7 @@
       "name": "Ichimonji",
       "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li>",
       "img": "icons/icho.png",
-      "tier": "D"
+      "tier": "c"
     },
     {
       "id": 11,
