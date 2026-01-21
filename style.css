@@ -269,9 +269,11 @@ h1 {
 
 
 .bottom-card {
-  margin-top: auto; 
+  margin-top: 40px;   
+  margin-bottom: 40px; 
   width: min(420px, 90vw);
 }
+
 
 
 @media (max-width: 800px) {
