@@ -2,24 +2,23 @@ let allLists = {};
 let currentMode = null;
 
 
-window.chooseMode = function(mode) {
+window.chooseMode = function (mode) {
   const startScreen = document.getElementById("startScreen");
   const mainScreen = document.getElementById("mainScreen");
   const modeLabel = document.getElementById("modeLabel");
   const infoPanel = document.getElementById("infoPanel");
 
-  
-  if (!allLists || !allLists[mode]) {
-    console.error("Mode not found or data not loaded:", mode, allLists);
-    alert("Data not loaded yet or mode missing in data.json.");
+  if (!allLists[mode]) {
+    console.error("Mode not found:", mode);
+    alert("Mode not found in data.json");
     return;
   }
 
   currentMode = mode;
-  localStorage.setItem("tierMode", mode);
 
   if (modeLabel) {
-    modeLabel.textContent = mode === "casual" ? "Viewing: Casual" : "Viewing: Competitive";
+    modeLabel.textContent =
+      mode === "casual" ? "Viewing: Casual" : "Viewing: Competitive";
   }
 
  
@@ -31,7 +30,7 @@ window.chooseMode = function(mode) {
 };
 
 
-window.goBackToModeSelect = function() {
+window.goBackToModeSelect = function () {
   const startScreen = document.getElementById("startScreen");
   const mainScreen = document.getElementById("mainScreen");
   const infoPanel = document.getElementById("infoPanel");
@@ -43,32 +42,28 @@ window.goBackToModeSelect = function() {
 
 
 fetch("data.json")
-  .then(r => {
+  .then((r) => {
     if (!r.ok) throw new Error("Failed to load data.json");
     return r.json();
   })
-  .then(data => {
+  .then((data) => {
     allLists = data;
-
    
-    const saved = localStorage.getItem("tierMode");
-    if (saved && allLists[saved]) {
-      window.chooseMode(saved);
-    }
   })
-  .catch(err => {
+  .catch((err) => {
     console.error("Failed to load data.json:", err);
-    alert("Failed to load data.json. Check path/name and JSON formatting.");
+    alert("Failed to load data.json. Check file name and formatting.");
   });
 
 function render() {
   const items = allLists[currentMode] || [];
 
   
-  document.querySelectorAll(".tier-row").forEach(row => (row.innerHTML = ""));
+  document.querySelectorAll(".tier-row").forEach((row) => {
+    row.innerHTML = "";
+  });
 
-  
-  items.forEach(item => {
+  items.forEach((item) => {
     const wrapper = document.createElement("div");
     wrapper.className = "icon-wrapper";
 
@@ -84,7 +79,9 @@ function render() {
     wrapper.appendChild(img);
     wrapper.appendChild(label);
 
-    const row = document.querySelector(`.tier[data-tier="${item.tier}"] .tier-row`);
+    const row = document.querySelector(
+      `.tier[data-tier="${item.tier}"] .tier-row`
+    );
     if (row) row.appendChild(wrapper);
   });
 }
