@@ -88,6 +88,15 @@ function render() {
 
 function showInfo(item) {
   document.getElementById("infoTitle").textContent = item.name;
-  document.getElementById("infoText").innerHTML = item.info;
-  document.getElementById("infoPanel").classList.remove("hidden");
+ const infoText = document.getElementById("infoText");
+infoText.innerHTML = item.info;
+
+
+infoText.querySelectorAll("li").forEach(li => {
+  if (!li.textContent.trim()) {
+    li.remove();
+  }
+});
+
+document.getElementById("infoPanel").classList.remove("hidden");
 }
