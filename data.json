@@ -126,7 +126,7 @@
       "name": "Wabisuke",
       "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
       "img": "icons/Wabi.png",
-      "tier": "A"
+      "tier": "S"
     },
     {
       "id": 2,
@@ -147,7 +147,7 @@
       "name": "Shinso",
       "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
       "img": "icons/shinso.png",
-      "tier": "A"
+      "tier": "S"
     },
     {
       "id": 5,
