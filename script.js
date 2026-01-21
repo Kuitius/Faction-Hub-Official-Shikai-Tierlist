@@ -88,6 +88,6 @@ function render() {
 
 function showInfo(item) {
   document.getElementById("infoTitle").textContent = item.name;
-  document.getElementById("infoText").textContent = item.info;
+  document.getElementById("infoText").innerHTML = item.info;
   document.getElementById("infoPanel").classList.remove("hidden");
 }
