@@ -66,7 +66,7 @@
     {
       "id": 10,
       "name": "Ichimonji",
-      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li>",
       "img": "icons/icho.png",
       "tier": "S"
     },
@@ -80,7 +80,7 @@
     {
       "id": 12,
       "name": "Hyorinmaru",
-      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li>",
       "img": "icons/hyorin.png",
       "tier": "D"
     },
@@ -115,7 +115,7 @@
     {
       "id": 17,
       "name": "Shinken Hakkyoken",
-      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li>",
       "img": "icons/shinken.png",
       "tier": "S"
     }
@@ -173,7 +173,7 @@
     {
       "id": 8,
       "name": "Tenken",
-      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li>",
       "img": "icons/tenken.png",
       "tier": "S"
     },
@@ -187,7 +187,7 @@
     {
       "id": 10,
       "name": "Ichimonji",
-      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li>",
       "img": "icons/icho.png",
       "tier": "S"
     },
@@ -201,7 +201,7 @@
     {
       "id": 12,
       "name": "Hyorinmaru",
-      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li>",
       "img": "icons/hyorin.png",
       "tier": "D"
     },
@@ -236,7 +236,7 @@
     {
       "id": 17,
       "name": "Shinken Hakkyoken",
-      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Bankai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n</ul>",
+      "info": "<ul>\n  <li><strong>General Info</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li><strong>Shikai:</strong>\n    <ul>\n      <li></li>\n      <li></li>\n    </ul>\n  </li>\n  <li>",
       "img": "icons/shinken.png",
       "tier": "A"
     }
